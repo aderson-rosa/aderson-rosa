@@ -1,6 +1,6 @@
 # Aderson Rosa
 
-**Senior QA Engineer / SDET** · 8+ years of software quality engineering · Gravataí, RS, Brazil
+**Senior QA Engineer / SDET** · 10+ years of software quality engineering · Gravataí, RS, Brazil
 
 Quality engineering across the **full test pyramid** in high-scale e-commerce (marketplace of Grupo Pão de Açúcar), now applying the same discipline to **cloud-native apps and AI-driven workflows**. I write production code too — the "D" in SDET is real here.
 
