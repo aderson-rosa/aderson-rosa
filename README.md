@@ -4,7 +4,7 @@
 
 Quality engineering across the **full test pyramid** in high-scale e-commerce (marketplace of Grupo Pão de Açúcar), now applying the same discipline to **cloud-native apps and AI-driven workflows**. I write production code too — the "D" in SDET is real here.
 
-> 🇧🇷 QA Sênior com 8+ anos em engenharia de qualidade, do e-commerce de alta escala a workflows com IA.
+> 🇧🇷 QA Sênior com 10+ anos em engenharia de qualidade, do e-commerce de alta escala a workflows com IA.
 
 ## 🧪 Portfolio map
 
